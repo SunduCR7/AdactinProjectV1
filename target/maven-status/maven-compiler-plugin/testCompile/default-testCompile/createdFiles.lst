@@ -1,0 +1,4 @@
+com\AdactinProject\AppTest.class
+com\stepdefinition\StepDefinition.class
+com\AdactinRunner\Test_Runner.class
+com\hooks\Hooks.class

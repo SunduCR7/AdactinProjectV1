@@ -1,0 +1,12 @@
+com\pomclass\LoginPage.class
+com\pomclass\BookAHotelPage.class
+com\pomclass\BookedItenaryPage.class
+com\AdactinProject\App.class
+com\pomclass\MyItenaryPage.class
+com\properties\FileReaderManager.class
+com\sdp\PageObjectManager.class
+com\pomclass\BookingDetails.class
+com\MavenProject\BaseClass.class
+com\MavenProject\App.class
+com\pomclass\HotelSelectionPage.class
+com\properties\ConfigurationReader.class
